@@ -7,7 +7,7 @@ Be sure to have a python2.0+, a capable IDE installed, and openCV installed
 
 Get it running
 ---------------------
-Choose an image with a distinct square image preferably with a plain background. This will make it easier to identify the contours of the square. The square being a different color helps to distinguish itself. After the image has been chosen, Shift + Right click the image and choose "Copy as Path". Use the cv.imread function to load in the image. You can change the foward slashes (\) to back slashes (/) or you can insert a "r" to ignore the foward slashes as I have.
+Choose an image with a distinct square image preferably with a plain background. This will make it easier to identify the contours of the square. The square being a different color helps to distinguish itself. After the image has been chosen, Shift + Right click the image and choose "Copy as Path". Use the cv.imread function to load in the image. You can change the foward slashes (\\) to back slashes (/) or you can insert a "r" to ignore the foward slashes as I have.
 
 Results
 ------------
